@@ -1,4 +1,3 @@
--- Creates the user user_0d_1 with all privileges.
 -- MySQL dump 10.13  Distrib 5.7.8-rc, for Linux (x86_64)
 --
 -- Host: localhost    Database: hbtn_0d_tvshows
